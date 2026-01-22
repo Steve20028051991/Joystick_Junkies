@@ -1,6 +1,6 @@
 alert = false;
 // distance enemy will engage with player
-alert_dis = 200;
+alert_dis = 350;
 // Create Path
 
 path = path_add();

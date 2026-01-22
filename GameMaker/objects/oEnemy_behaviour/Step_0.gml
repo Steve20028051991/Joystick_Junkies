@@ -42,3 +42,43 @@ if (alert) {
 }
 	
 
+if(place_meeting(x, y, oWall)){
+	for(var i = 0; i < 1000; ++i) {
+		if(!place_meeting(x + i, y,oWall)){
+			x += i;
+			break;
+		}
+				if(!place_meeting(x - i, y,oWall)){
+			x -= i;
+			break;
+		}
+				if(!place_meeting(x, y - i,oWall)){
+			x -= i;
+			break;
+		}
+				if(!place_meeting(x, y + i,oWall)){
+			x += i;
+			break;
+		}
+				if(!place_meeting(x + i, y - i,oWall)){
+			x += i;
+			y -= i;
+			break;
+		}
+				if(!place_meeting(x - i, y - i,oWall)){
+			x -= i;
+			y -= i;
+			break;
+		}
+				if(!place_meeting(x + i, y + i,oWall)){
+			x += i;
+			y += i;
+			break;
+		}
+				if(!place_meeting(x - i, y + i,oWall)){
+			x -= i;
+			y += i;
+			break;
+		}
+	}
+}

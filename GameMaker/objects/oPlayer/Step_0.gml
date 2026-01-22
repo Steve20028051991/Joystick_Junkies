@@ -23,3 +23,44 @@ if (playerLives == 0)
 }
 
 image_angle = point_direction(x, y, mouse_x, mouse_y) - 90;
+
+if(place_meeting(x, y, oWall)){
+	for(var i = 0; i < 1000; ++i) {
+		if(!place_meeting(x + i, y,oWall)){
+			x += i;
+			break;
+		}
+				if(!place_meeting(x - i, y,oWall)){
+			x -= i;
+			break;
+		}
+				if(!place_meeting(x, y - i,oWall)){
+			x -= i;
+			break;
+		}
+				if(!place_meeting(x, y + i,oWall)){
+			x += i;
+			break;
+		}
+				if(!place_meeting(x + i, y - i,oWall)){
+			x += i;
+			y -= i;
+			break;
+		}
+				if(!place_meeting(x - i, y - i,oWall)){
+			x -= i;
+			y -= i;
+			break;
+		}
+				if(!place_meeting(x + i, y + i,oWall)){
+			x += i;
+			y += i;
+			break;
+		}
+				if(!place_meeting(x - i, y + i,oWall)){
+			x -= i;
+			y += i;
+			break;
+		}
+	}
+}
