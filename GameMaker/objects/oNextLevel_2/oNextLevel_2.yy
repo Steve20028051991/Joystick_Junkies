@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"oWall_2",
+  "%Name":"oNextLevel_2",
   "eventList":[],
   "managed":true,
-  "name":"oWall_2",
+  "name":"oNextLevel_2",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
+  "solid":false,
   "spriteId":{
-    "name":"sWall_2",
-    "path":"sprites/sWall_2/sWall_2.yy",
+    "name":"sNextlevel_2",
+    "path":"sprites/sNextlevel_2/sNextlevel_2.yy",
   },
   "spriteMaskId":null,
   "visible":true,
