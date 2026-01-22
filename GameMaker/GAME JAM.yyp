@@ -34,9 +34,11 @@
   },
   "name":"GAME JAM",
   "resources":[
+    {"id":{"name":"O_Enemy","path":"objects/O_Enemy/O_Enemy.yy",},},
     {"id":{"name":"O_Eyes","path":"objects/O_Eyes/O_Eyes.yy",},},
     {"id":{"name":"O_Wall","path":"objects/O_Wall/O_Wall.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"S_Enemy","path":"sprites/S_Enemy/S_Enemy.yy",},},
     {"id":{"name":"S_Eyes","path":"sprites/S_Eyes/S_Eyes.yy",},},
     {"id":{"name":"S_Wall","path":"sprites/S_Wall/S_Wall.yy",},},
   ],
