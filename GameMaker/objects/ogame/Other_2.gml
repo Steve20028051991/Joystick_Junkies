@@ -1,8 +1,8 @@
 #macro TS 32
 
 
-var_w = cell(room_width / TS);
-var _h cell(room_height / TS); 
+var _w = cell(room_width / TS);
+var _h = cell(room_height / TS); 
 
 // Create motion planning grid
 
