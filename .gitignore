@@ -162,6 +162,7 @@ GameMaker/**/*.yyc
 # GameMaker build outputs
 GameMaker/**/output/
 GameMaker/**/export/
+GameMaker/options/
 
 # GameMaker local settings (user-specific)
 GameMaker/**/preferences/

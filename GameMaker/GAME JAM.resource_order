@@ -1,9 +1,9 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
-    {"name":"O_Enemy","order":2,"path":"objects/O_Enemy/O_Enemy.yy",},
-    {"name":"O_Eyes","order":1,"path":"objects/O_Eyes/O_Eyes.yy",},
-    {"name":"S_Enemy","order":2,"path":"sprites/S_Enemy/S_Enemy.yy",},
-    {"name":"S_Eyes","order":1,"path":"sprites/S_Eyes/S_Eyes.yy",},
+    {"name":"oFlashlight","order":2,"path":"objects/oFlashlight/oFlashlight.yy",},
+    {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+    {"name":"sFlashlight","order":2,"path":"sprites/sFlashlight/sFlashlight.yy",},
+    {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
   ],
 }
