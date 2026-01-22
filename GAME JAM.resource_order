@@ -1,0 +1,7 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"O_Eyes","order":1,"path":"objects/O_Eyes/O_Eyes.yy",},
+    {"name":"S_Eyes","order":1,"path":"sprites/S_Eyes/S_Eyes.yy",},
+  ],
+}
