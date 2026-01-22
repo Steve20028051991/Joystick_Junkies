@@ -6,7 +6,7 @@ alert_dis = 130;
 path = path_add();
 //speed of enemy
 
-move_spd = 1;
+move_spd = 3;
 
 // delay for calculating path 
 calc_path_delay = 30;
