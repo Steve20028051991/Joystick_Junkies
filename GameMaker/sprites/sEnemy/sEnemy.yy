@@ -62,11 +62,7 @@
     },
     "name":"sEnemy",
     "playback":1,
-<<<<<<< Updated upstream
     "playbackSpeed":10.0,
-=======
-    "playbackSpeed":8.0,
->>>>>>> Stashed changes
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
