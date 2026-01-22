@@ -1,9 +1,6 @@
 // movement for enemy AI 
+check_for_player();
 
-function check_for_oPlayer(){
-	
-	var _dis = distance_to_object(oPlayer);
-}
 	//conditions for checking path
 	if calc_path_timer <= 0{
 		//reset timer 
