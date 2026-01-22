@@ -35,5 +35,5 @@
     "path":"sprites/sFlashlight/sFlashlight.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }
