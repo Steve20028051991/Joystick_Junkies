@@ -11,7 +11,6 @@
     {"name":"oMenu","order":7,"path":"objects/oMenu/oMenu.yy",},
     {"name":"oNextRoom","order":6,"path":"objects/oNextRoom/oNextRoom.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
-    {"name":"Level_2","order":1,"path":"rooms/Level_2/Level_2.yy",},
     {"name":"MainMenu","order":2,"path":"rooms/MainMenu/MainMenu.yy",},
     {"name":"SettingsMenu","order":3,"path":"rooms/SettingsMenu/SettingsMenu.yy",},
     {"name":"sbattery","order":4,"path":"sprites/sbattery/sbattery.yy",},

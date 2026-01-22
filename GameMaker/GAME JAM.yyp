@@ -45,7 +45,6 @@
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
     {"id":{"name":"Level_1","path":"rooms/Level_1/Level_1.yy",},},
-    {"id":{"name":"Level_2","path":"rooms/Level_2/Level_2.yy",},},
     {"id":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
     {"id":{"name":"SettingsMenu","path":"rooms/SettingsMenu/SettingsMenu.yy",},},
     {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},},
@@ -65,7 +64,6 @@
   "RoomOrderNodes":[
     {"roomId":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
     {"roomId":{"name":"Level_1","path":"rooms/Level_1/Level_1.yy",},},
-    {"roomId":{"name":"Level_2","path":"rooms/Level_2/Level_2.yy",},},
     {"roomId":{"name":"SettingsMenu","path":"rooms/SettingsMenu/SettingsMenu.yy",},},
   ],
   "templateType":"game",
