@@ -1,6 +1,3 @@
-<<<<<<< Updated upstream
-global.mp_grid = 0;
-=======
 // Initialize grid variable
 global.mp_grid = noone;
 
@@ -23,4 +20,3 @@ mp_grid_add_instances(global.mp_grid, oWall, true);
 
 show_debug_message("Grid created in Create: " + string(_w) + "x" + string(_h) + " cells");
 show_debug_message("Wall count: " + string(instance_number(oWall)));
->>>>>>> Stashed changes
