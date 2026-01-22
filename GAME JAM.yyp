@@ -34,15 +34,11 @@
   },
   "name":"GAME JAM",
   "resources":[
-    {"id":{"name":"O_Wall","path":"objects/O_Wall/O_Wall.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"S_Wall","path":"sprites/S_Wall/S_Wall.yy",},},
+    {"id":{"name":"PlayerSpriteBase","path":"sprites/PlayerSpriteBase/PlayerSpriteBase.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
-  "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-  ],
+  "RoomOrderNodes":[],
   "templateType":"game",
   "TextureGroups":[
     {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
