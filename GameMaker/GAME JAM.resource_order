@@ -1,8 +1,14 @@
 {
   "FolderOrderSettings":[],
   "ResourceOrderSettings":[
+    {"name":"obattery","order":4,"path":"objects/obattery/obattery.yy",},
+    {"name":"oEnemy","order":3,"path":"objects/oEnemy/oEnemy.yy",},
+    {"name":"oeyes","order":5,"path":"objects/oeyes/oeyes.yy",},
     {"name":"oFlashlight","order":2,"path":"objects/oFlashlight/oFlashlight.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+    {"name":"sbattery","order":4,"path":"sprites/sbattery/sbattery.yy",},
+    {"name":"sEnemy","order":3,"path":"sprites/sEnemy/sEnemy.yy",},
+    {"name":"seyes","order":5,"path":"sprites/seyes/seyes.yy",},
     {"name":"sFlashlight","order":2,"path":"sprites/sFlashlight/sFlashlight.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
   ],
