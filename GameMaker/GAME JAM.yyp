@@ -42,6 +42,7 @@
     {"id":{"name":"oeyes","path":"objects/oeyes/oeyes.yy",},},
     {"id":{"name":"oFlashlight","path":"objects/oFlashlight/oFlashlight.yy",},},
     {"id":{"name":"oGame","path":"objects/oGame/oGame.yy",},},
+    {"id":{"name":"oInitialise","path":"objects/oInitialise/oInitialise.yy",},},
     {"id":{"name":"oMenu","path":"objects/oMenu/oMenu.yy",},},
     {"id":{"name":"oNextLevel_2","path":"objects/oNextLevel_2/oNextLevel_2.yy",},},
     {"id":{"name":"oNextRoom","path":"objects/oNextRoom/oNextRoom.yy",},},
@@ -49,6 +50,7 @@
     {"id":{"name":"oSettings","path":"objects/oSettings/oSettings.yy",},},
     {"id":{"name":"oWall_2","path":"objects/oWall_2/oWall_2.yy",},},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
+    {"id":{"name":"Initialising","path":"rooms/Initialising/Initialising.yy",},},
     {"id":{"name":"Level_1","path":"rooms/Level_1/Level_1.yy",},},
     {"id":{"name":"Level_2","path":"rooms/Level_2/Level_2.yy",},},
     {"id":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
@@ -71,6 +73,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"Initialising","path":"rooms/Initialising/Initialising.yy",},},
     {"roomId":{"name":"MainMenu","path":"rooms/MainMenu/MainMenu.yy",},},
     {"roomId":{"name":"SettingsMenu","path":"rooms/SettingsMenu/SettingsMenu.yy",},},
     {"roomId":{"name":"Level_1","path":"rooms/Level_1/Level_1.yy",},},
