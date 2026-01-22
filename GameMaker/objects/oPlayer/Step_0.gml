@@ -17,4 +17,9 @@ else
 	image_speed = 0;
 }
 
+if (playerLives == 0)
+{
+	game_restart();
+}
+
 image_angle = point_direction(x, y, mouse_x, mouse_y) - 90;

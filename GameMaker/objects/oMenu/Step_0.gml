@@ -18,6 +18,7 @@ if (keyboard_check_pressed(vk_enter))
 
 }
 
+
 if (keyboard_check_pressed(vk_up))
 {
 	if (menuOption != 1)
