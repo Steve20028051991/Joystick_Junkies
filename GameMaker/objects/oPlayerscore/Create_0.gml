@@ -1,0 +1,4 @@
+/// @DnDAction : YoYo Games.Instance Variables.Set_Score
+/// @DnDVersion : 1
+/// @DnDHash : 280D4D4E
+__dnd_score = real(0);
