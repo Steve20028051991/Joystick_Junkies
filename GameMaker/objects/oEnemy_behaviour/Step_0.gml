@@ -3,13 +3,14 @@ check_for_player();
 
 // Debug once per second
 if (current_time mod 1000 < 16) {
-	show_debug_message("Alert: " + string(alert) + " | Distance: " + string(distance_to_object(oPlayer)) + " | Timer: " + string(calc_path_timer) + " | Grid: " + string(global.mp_grid));
+	var grid_status = variable_global_exists("mp_grid") ? string(global.mp_grid) : "not initialized";
+	show_debug_message("Alert: " + string(alert) + " | Distance: " + string(distance_to_object(oPlayer)) + " | Timer: " + string(calc_path_timer) + " | Grid: " + grid_status);
 }
 
 // Only path if player is within alert distance and grid exists
 if (alert) {
-	if (global.mp_grid == noone) {
-		show_debug_message("ERROR: Grid is noone!");
+	if (!variable_global_exists("mp_grid") || global.mp_grid == noone) {
+		show_debug_message("ERROR: Grid not initialized or is noone!");
 	} else {
 		// Countdown the timer
 		calc_path_timer--;
