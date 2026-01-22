@@ -1,2 +1,2 @@
-move_bounce_solid(0);
+move_bounce_solid(10000);
 
