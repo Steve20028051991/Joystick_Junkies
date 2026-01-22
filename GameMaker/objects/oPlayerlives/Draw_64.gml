@@ -1,8 +1,11 @@
 /// @DnDAction : YoYo Games.Instance Variables.Get_Lives
 /// @DnDVersion : 1
 /// @DnDHash : 3EB6907B
+/// @DnDApplyTo : all
 /// @DnDArgument : "var" "lives"
+with(all) {
 if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;lives = __dnd_lives;
+}
 
 /// @DnDAction : YoYo Games.Drawing.Draw_Instance_Lives
 /// @DnDVersion : 1
