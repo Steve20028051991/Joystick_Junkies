@@ -8,6 +8,7 @@ if (keyboard_check_pressed(vk_enter))
 	else if (menuOption == 2)
 	{
 		//Settings
+		room_goto(SettingsMenu);
 	}
 	else if (menuOption == 3)
 	{
