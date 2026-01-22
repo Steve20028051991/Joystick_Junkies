@@ -1,5 +1,5 @@
 // movement for enemy AI
-check_for_player();
+//check_for_player();
 
 // Debug once per second
 if (current_time mod 1000 < 16) {
