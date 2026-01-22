@@ -1,20 +1,4 @@
-x = oPlayer.x;
-y = oPlayer.y;
+x = oPlayer.x+32;
+y = oPlayer.y+32;
 
-
-if (mouse_y > oPlayer.y)
-{
-	image_index = 1;
-}
-if (mouse_y < oPlayer.y)
-{
-	image_index = 9;
-}
-if (mouse_x > oPlayer.x)
-{
-	image_index = 5;
-}
-if (mouse_x < oPlayer.x)
-{
-	image_index = 13;
-}
+image_angle = point_direction(x, y, mouse_x, mouse_y) - 90
