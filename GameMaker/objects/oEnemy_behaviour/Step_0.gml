@@ -1,5 +1,18 @@
 // movement for enemy AI
-//check_for_player();
+// Check if player is within alert distance
+if (instance_exists(oPlayer)) {
+	var _dis = distance_to_object(oPlayer);
+	if (_dis <= alert_dis) {
+		if (!alert) {
+			show_debug_message("Enemy alerted! Player within range: " + string(_dis));
+		}
+		alert = true;
+	} else {
+		alert = false;
+	}
+} else {
+	alert = false;
+}
 
 // Debug once per second
 if (current_time mod 1000 < 16) {
