@@ -17,8 +17,9 @@ else
 	image_speed = 0;
 }
 
-if (playerLives == 0)
+if (global.playerLives == 0)
 {
+	show_debug_message("GAME END")
 	game_restart();
 }
 
