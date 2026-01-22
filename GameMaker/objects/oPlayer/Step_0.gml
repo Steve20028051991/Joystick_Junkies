@@ -7,3 +7,4 @@ hSpeed = (rightKey	- leftKey) * moveSpeed;
 vSpeed = (downKey - upKey) * moveSpeed;
 
 move_and_collide(hSpeed * moveSpeed, vSpeed * moveSpeed, oWall);
+
