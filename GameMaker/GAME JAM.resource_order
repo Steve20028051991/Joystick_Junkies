@@ -6,6 +6,7 @@
     {"name":"obattery","order":4,"path":"objects/obattery/obattery.yy",},
     {"name":"oEnemy_behaviour","order":6,"path":"objects/oEnemy_behaviour/oEnemy_behaviour.yy",},
     {"name":"oEnemy","order":3,"path":"objects/oEnemy/oEnemy.yy",},
+    {"name":"oEnergy","order":9,"path":"objects/oEnergy/oEnergy.yy",},
     {"name":"oeyes","order":5,"path":"objects/oeyes/oeyes.yy",},
     {"name":"oFlashlight","order":2,"path":"objects/oFlashlight/oFlashlight.yy",},
     {"name":"oNextRoom","order":6,"path":"objects/oNextRoom/oNextRoom.yy",},

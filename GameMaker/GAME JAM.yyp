@@ -38,6 +38,7 @@
     {"id":{"name":"obattery","path":"objects/obattery/obattery.yy",},},
     {"id":{"name":"oEnemy_behaviour","path":"objects/oEnemy_behaviour/oEnemy_behaviour.yy",},},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},},
+    {"id":{"name":"oEnergy","path":"objects/oEnergy/oEnergy.yy",},},
     {"id":{"name":"oeyes","path":"objects/oeyes/oeyes.yy",},},
     {"id":{"name":"oFlashlight","path":"objects/oFlashlight/oFlashlight.yy",},},
     {"id":{"name":"oNextRoom","path":"objects/oNextRoom/oNextRoom.yy",},},
