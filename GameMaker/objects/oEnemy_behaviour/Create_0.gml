@@ -13,5 +13,7 @@ calc_path_delay = 30;
 //set timer - start at 0 so first path calculation happens immediately
 calc_path_timer = 0;
 
+count = 0;
+
 show_debug_message("Enemy created at (" + string(x) + "," + string(y) + ") with move_spd: " + string(move_spd));
 
