@@ -1,16 +1,20 @@
 {
-  "FolderOrderSettings":[],
+  "FolderOrderSettings":[
+    {"name":"Level 1","order":8,"path":"folders/Sprites/Level 1.yy",},
+  ],
   "ResourceOrderSettings":[
     {"name":"obattery","order":4,"path":"objects/obattery/obattery.yy",},
     {"name":"oEnemy","order":3,"path":"objects/oEnemy/oEnemy.yy",},
     {"name":"oeyes","order":5,"path":"objects/oeyes/oeyes.yy",},
     {"name":"oFlashlight","order":2,"path":"objects/oFlashlight/oFlashlight.yy",},
+    {"name":"oNextRoom","order":6,"path":"objects/oNextRoom/oNextRoom.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+    {"name":"Level_2","order":1,"path":"rooms/Level_2/Level_2.yy",},
     {"name":"sbattery","order":4,"path":"sprites/sbattery/sbattery.yy",},
     {"name":"sEnemy","order":3,"path":"sprites/sEnemy/sEnemy.yy",},
-    {"name":"seyes","order":5,"path":"sprites/seyes/seyes.yy",},
+    {"name":"seyes","order":3,"path":"sprites/seyes/seyes.yy",},
     {"name":"sFlashlight","order":2,"path":"sprites/sFlashlight/sFlashlight.yy",},
-    {"name":"sTile","order":6,"path":"sprites/sTile/sTile.yy",},
+    {"name":"sTile","order":2,"path":"sprites/sTile/sTile.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
   ],
 }
