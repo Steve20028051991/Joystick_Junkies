@@ -20,7 +20,7 @@ else if (keyboard_check_pressed(ord("F")))
 if (global.flashlightOn == true)
 {
 	image_angle = point_direction(x, y, mouse_x, mouse_y) - 90;
-	global.energy -= 0.1;
+	global.energy -= 0.3;
 	if (global.energy <= 0)
 	{
 		global.flashlightOn = false;

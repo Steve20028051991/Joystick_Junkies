@@ -1,5 +1,5 @@
-if (place_meeting(x,y,oPlayer))
+if (place_meeting(x,y,oPlayer) && global.energy < 75)
 {
-	global.battery += 2;
+	global.energy += 25;
 	instance_destroy()
 }
