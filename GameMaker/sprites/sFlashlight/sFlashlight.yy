@@ -2,9 +2,9 @@
   "$GMSprite":"",
   "%Name":"sFlashlight",
   "bboxMode":0,
-  "bbox_bottom":75,
+  "bbox_bottom":31,
   "bbox_left":0,
-  "bbox_right":75,
+  "bbox_right":30,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -32,7 +32,7 @@
   ],
   "gridX":12,
   "gridY":12,
-  "height":76,
+  "height":32,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"dcfee9d8-4f9c-4828-bdd7-4471a4c56b0a","blendMode":0,"displayName":"default","isLocked":false,"name":"dcfee9d8-4f9c-4828-bdd7-4471a4c56b0a","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -150,5 +150,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":76,
+  "width":32,
 }
