@@ -1,5 +1,6 @@
 {
   "FolderOrderSettings":[
+    {"name":"Level 2","order":11,"path":"folders/Sprites/Level 2.yy",},
     {"name":"Level 1","order":8,"path":"folders/Sprites/Level 1.yy",},
   ],
   "ResourceOrderSettings":[
@@ -9,8 +10,11 @@
     {"name":"oeyes","order":5,"path":"objects/oeyes/oeyes.yy",},
     {"name":"oFlashlight","order":2,"path":"objects/oFlashlight/oFlashlight.yy",},
     {"name":"oMenu","order":7,"path":"objects/oMenu/oMenu.yy",},
+    {"name":"oNextLevel_2","order":9,"path":"objects/oNextLevel_2/oNextLevel_2.yy",},
     {"name":"oNextRoom","order":6,"path":"objects/oNextRoom/oNextRoom.yy",},
+    {"name":"oWall_2","order":8,"path":"objects/oWall_2/oWall_2.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+    {"name":"Level_2","order":4,"path":"rooms/Level_2/Level_2.yy",},
     {"name":"MainMenu","order":2,"path":"rooms/MainMenu/MainMenu.yy",},
     {"name":"SettingsMenu","order":3,"path":"rooms/SettingsMenu/SettingsMenu.yy",},
     {"name":"sbattery","order":4,"path":"sprites/sbattery/sbattery.yy",},
@@ -19,6 +23,7 @@
     {"name":"sFlashlight","order":2,"path":"sprites/sFlashlight/sFlashlight.yy",},
     {"name":"sMenuBackground","order":9,"path":"sprites/sMenuBackground/sMenuBackground.yy",},
     {"name":"sMenuText","order":10,"path":"sprites/sMenuText/sMenuText.yy",},
+    {"name":"sNextlevel_2","order":1,"path":"sprites/sNextlevel_2/sNextlevel_2.yy",},
     {"name":"sTile","order":2,"path":"sprites/sTile/sTile.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
   ],
