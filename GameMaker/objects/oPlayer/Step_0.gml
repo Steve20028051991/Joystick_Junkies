@@ -7,4 +7,9 @@ hSpeed = (rightKey	- leftKey) * moveSpeed;
 vSpeed = (downKey - upKey) * moveSpeed;
 
 move_and_collide(hSpeed * moveSpeed, vSpeed * moveSpeed, oWall);
+image_angle = point_direction(x, y, mouse_x, mouse_y) - 90
 
+if (keyboard_check_pressed(ord("R")))
+{
+	game_restart()
+}
