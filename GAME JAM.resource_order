@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"oFlashlight","order":2,"path":"objects/oFlashlight/oFlashlight.yy",},
+    {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+    {"name":"sFlashlight","order":2,"path":"sprites/sFlashlight/sFlashlight.yy",},
+    {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
+  ],
+}
