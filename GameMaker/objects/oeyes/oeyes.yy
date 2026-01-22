@@ -26,8 +26,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
-  "spriteId":null,
+  "solid":true,
+  "spriteId":{
+    "name":"seyes",
+    "path":"sprites/seyes/seyes.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

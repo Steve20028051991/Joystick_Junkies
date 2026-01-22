@@ -46,6 +46,7 @@
     {"id":{"name":"seyes","path":"sprites/seyes/seyes.yy",},},
     {"id":{"name":"sFlashlight","path":"sprites/sFlashlight/sFlashlight.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
+    {"id":{"name":"sTile","path":"sprites/sTile/sTile.yy",},},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
   ],
   "resourceType":"GMProject",
