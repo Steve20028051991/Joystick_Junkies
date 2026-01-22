@@ -2,11 +2,12 @@
 
 //function check_for_oPlayer(){
 	
-//	var _dis = distance_to_object(oPlayer);
+	var _dis = distance_to_object(oPlayer);
+}
 	
-//	//conditions for checking path
-//	if calc_path_timer <= 0{
-//		//reset timer 
+	//conditions for checking path
+	if calc_path_timer <= 0 {
+		//reset timer 
 		
 //		calc_path_timer = calc_path_delay;
 	
@@ -16,10 +17,9 @@
 	
 //	// start path if player can be reached 
 	
-//	if_found_oPlayer {
-//	path_start(path, move_spd, path_action_stop, false);
-//	}
+	if found_oPlayer
+	{
+		path_start(path, move_spd, path_action_stop, false);
+	}
 	
-//}
-	
-
+}
