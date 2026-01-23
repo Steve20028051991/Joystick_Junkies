@@ -59,6 +59,7 @@
     {"id":{"name":"SettingsMenu","path":"rooms/SettingsMenu/SettingsMenu.yy",},},
     {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},},
     {"id":{"name":"Level2_floor","path":"sprites/Level2_floor/Level2_floor.yy",},},
+    {"id":{"name":"s_light","path":"sprites/s_light/s_light.yy",},},
     {"id":{"name":"sbattery","path":"sprites/sbattery/sbattery.yy",},},
     {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},},
     {"id":{"name":"seyes","path":"sprites/seyes/seyes.yy",},},
