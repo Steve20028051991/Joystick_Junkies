@@ -1,6 +1,6 @@
 // Spawning logic
 if (spawn_cooldown > 0) {
-    spawn_cooldown -= 5; // Decrease cooldown timer
+    spawn_cooldown -= 1; // Decrease cooldown timer
 } else {
 
     // Check if the number of enemies is below the limit
