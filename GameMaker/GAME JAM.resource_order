@@ -32,6 +32,7 @@
     {"name":"SettingsMenu","order":3,"path":"rooms/SettingsMenu/SettingsMenu.yy",},
     {"name":"Level2_floor","order":2,"path":"sprites/Level2_floor/Level2_floor.yy",},
     {"name":"sbattery","order":4,"path":"sprites/sbattery/sbattery.yy",},
+    {"name":"sCorpse","order":15,"path":"sprites/sCorpse/sCorpse.yy",},
     {"name":"sEnemy","order":3,"path":"sprites/sEnemy/sEnemy.yy",},
     {"name":"seyes","order":3,"path":"sprites/seyes/seyes.yy",},
     {"name":"sFlashlight_2","order":14,"path":"sprites/sFlashlight_2/sFlashlight_2.yy",},

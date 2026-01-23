@@ -70,6 +70,7 @@
     {"id":{"name":"TitleMusic","path":"sounds/TitleMusic/TitleMusic.yy",},},
     {"id":{"name":"Level2_floor","path":"sprites/Level2_floor/Level2_floor.yy",},},
     {"id":{"name":"sbattery","path":"sprites/sbattery/sbattery.yy",},},
+    {"id":{"name":"sCorpse","path":"sprites/sCorpse/sCorpse.yy",},},
     {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},},
     {"id":{"name":"seyes","path":"sprites/seyes/seyes.yy",},},
     {"id":{"name":"sFlashlight_2","path":"sprites/sFlashlight_2/sFlashlight_2.yy",},},
