@@ -46,3 +46,8 @@ switch (menuOption)
 		image_index = 2;
 		break;
 }
+
+if (audio_is_playing(TitleMusic))
+{
+	show_debug_message("PLayin")
+}

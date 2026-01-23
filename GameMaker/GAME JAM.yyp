@@ -58,6 +58,7 @@
     {"id":{"name":"rInitialise","path":"rooms/rInitialise/rInitialise.yy",},},
     {"id":{"name":"SettingsMenu","path":"rooms/SettingsMenu/SettingsMenu.yy",},},
     {"id":{"name":"MACROS","path":"scripts/MACROS/MACROS.yy",},},
+    {"id":{"name":"TitleMusic","path":"sounds/TitleMusic/TitleMusic.yy",},},
     {"id":{"name":"Level2_floor","path":"sprites/Level2_floor/Level2_floor.yy",},},
     {"id":{"name":"sbattery","path":"sprites/sbattery/sbattery.yy",},},
     {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},},
