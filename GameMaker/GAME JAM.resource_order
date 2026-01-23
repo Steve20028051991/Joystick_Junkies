@@ -32,6 +32,7 @@
     {"name":"sMenuBackground","order":9,"path":"sprites/sMenuBackground/sMenuBackground.yy",},
     {"name":"sMenuText","order":10,"path":"sprites/sMenuText/sMenuText.yy",},
     {"name":"sNextlevel_2","order":1,"path":"sprites/sNextlevel_2/sNextlevel_2.yy",},
+    {"name":"sSettings","order":14,"path":"sprites/sSettings/sSettings.yy",},
     {"name":"sTile","order":2,"path":"sprites/sTile/sTile.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
   ],

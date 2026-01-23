@@ -70,6 +70,7 @@
     {"id":{"name":"sNextlevel_2","path":"sprites/sNextlevel_2/sNextlevel_2.yy",},},
     {"id":{"name":"sNextRoom","path":"sprites/sNextRoom/sNextRoom.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
+    {"id":{"name":"sSettings","path":"sprites/sSettings/sSettings.yy",},},
     {"id":{"name":"sTile","path":"sprites/sTile/sTile.yy",},},
     {"id":{"name":"sWall_2","path":"sprites/sWall_2/sWall_2.yy",},},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
