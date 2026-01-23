@@ -22,6 +22,7 @@ switch (menuOption)
 		if (slideRight && global.musicVolume != 100)
 		{
 			global.musicVolume++;
+			
 			show_debug_message(global.musicVolume);
 		}
 		else if (slideLeft && global.musicVolume != 0)

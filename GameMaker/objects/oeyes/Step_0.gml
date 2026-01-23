@@ -9,7 +9,7 @@ switch (global.keysCollected)
 		image_index = 1;
 		break;
 	case 3:
-		image_speed = 1;
+		image_speed = 1;		
 		break;
 	default:
 		image_speed = 0;
