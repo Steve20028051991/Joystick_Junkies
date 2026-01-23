@@ -20,3 +20,14 @@ mp_grid_add_instances(global.mp_grid, oWall, true);
 
 show_debug_message("Grid created in Create: " + string(_w) + "x" + string(_h) + " cells");
 show_debug_message("Wall count: " + string(instance_number(oWall)));
+
+application_surface_draw_enable(false);
+
+// below is new code added for punchole effect
+
+cam = view_get_camera(0);
+camw = window_get_width();
+camh = window_get_height();
+
+lightsurface = surface_create(camw,camh);
+
