@@ -1,5 +1,5 @@
 // Initialize grid variable
-global.mp_grid = noone;
+global.mp_grid = 0;
 
 // Clean up old grid if it exists
 if (global.mp_grid != noone) {
