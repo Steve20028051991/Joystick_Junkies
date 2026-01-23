@@ -1,2 +1,2 @@
-global.playerLives--;
-room_restart();
+global.playerLives = global.playerLives - 1;
+instance_destroy();

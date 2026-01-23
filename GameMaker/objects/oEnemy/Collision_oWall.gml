@@ -5,4 +5,5 @@ path_end();
 calc_path_timer = 0;
 
 show_debug_message("Enemy hit wall - recalculating path");
+instance_destroy();
 

@@ -1,3 +1,3 @@
-spawn_cooldown = 1;
-spawn_interval = 20;
-max_enemies = 20;
+spawn_cooldown = 5;
+spawn_interval = 10;
+max_enemies = 10;

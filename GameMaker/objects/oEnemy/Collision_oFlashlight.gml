@@ -1,7 +1,7 @@
 if (global.flashlightOn == true)
 {
 	count++;
-	if (count >= 100)
+	if (count >= 5)
 	{
 		instance_destroy(self)
 	}

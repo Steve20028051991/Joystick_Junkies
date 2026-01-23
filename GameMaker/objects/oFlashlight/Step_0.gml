@@ -6,12 +6,12 @@ if minenergy >= energy
 x = oPlayer.x;
 y = oPlayer.y;
 
-if (keyboard_check_pressed(ord("F")) && global.flashlightOn == false)
+if (mouse_button && global.flashlightOn == false)
 {
 	global.flashlightOn = true;
 	visible = true;
 }
-else if (keyboard_check_pressed(ord("F")))
+else if (mouse_check_button_released)
 {
 	global.flashlightOn = false;
 	visible = false;
