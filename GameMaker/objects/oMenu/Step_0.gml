@@ -12,6 +12,11 @@ if (keyboard_check_pressed(vk_enter))
 	}
 	else if (menuOption == 3)
 	{
+		//Help Menu
+		room_goto(HelpMenu);
+	}
+	else if (menuOption == 4)
+	{
 		//Exit
 		game_end()
 	}
@@ -28,7 +33,7 @@ if (keyboard_check_pressed(vk_up))
 }
 else if (keyboard_check_pressed(vk_down))
 {
-	if (menuOption != 3)
+	if (menuOption != 4)
 	{
 		menuOption++;
 	}
@@ -44,6 +49,9 @@ switch (menuOption)
 		break;
 	case 3:
 		image_index = 2;
+		break;
+	case 4:
+		image_index = 3;
 		break;
 }
 
