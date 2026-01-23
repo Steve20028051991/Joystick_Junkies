@@ -1,8 +1,8 @@
 if (!surface_exists(lightsurface))
 {
-  camw = winddow_get_width();
+  camw = window_get_width();
   camh = window_get_height();
-  lightssurface = surface_create(camw,camh);
+  lightsurface = surface_create(camw,camh);
 }
 
 surface_set_target(lightsurface);
