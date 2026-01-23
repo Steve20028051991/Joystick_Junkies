@@ -31,7 +31,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"sSettings",
+    "path":"sprites/sSettings/sSettings.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

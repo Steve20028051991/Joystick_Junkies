@@ -3,6 +3,7 @@ if (keyboard_check_pressed(vk_up))
 	if (menuOption != 1)
 	{
 		menuOption--;
+		image_index--;
 	}
 }
 else if (keyboard_check_pressed(vk_down))
@@ -10,6 +11,7 @@ else if (keyboard_check_pressed(vk_down))
 	if (menuOption != 3)
 	{
 		menuOption++;
+		image_index++;
 	}
 }
 
@@ -44,7 +46,10 @@ switch (menuOption)
 		
 		break;
 	case 3:
-		room_goto(MainMenu)
+		if (keyboard_check_pressed(vk_enter))
+		{
+			room_goto(MainMenu);
+		}
 		break;
 	
 }
