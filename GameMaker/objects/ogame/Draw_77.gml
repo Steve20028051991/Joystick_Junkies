@@ -4,7 +4,7 @@ draw_surface(application_surface, 0, 0);
 
 // TODO: Quick hack to prevent the main menu be overdrawn
 var _hole_punch = true
-if room == MainMenu || room == SettingsMenu {
+if room == MainMenu || room == SettingsMenu || room == HelpMenu || room == rm_credits {
 	_hole_punch = false	
 }
 

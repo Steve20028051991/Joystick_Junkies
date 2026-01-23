@@ -31,6 +31,7 @@
     {"name":"Level_2","order":4,"path":"rooms/Level_2/Level_2.yy",},
     {"name":"MainMenu","order":2,"path":"rooms/MainMenu/MainMenu.yy",},
     {"name":"rInitialise","order":5,"path":"rooms/rInitialise/rInitialise.yy",},
+    {"name":"rm_credits","order":7,"path":"rooms/rm_credits/rm_credits.yy",},
     {"name":"SettingsMenu","order":3,"path":"rooms/SettingsMenu/SettingsMenu.yy",},
     {"name":"Level2_floor","order":2,"path":"sprites/Level2_floor/Level2_floor.yy",},
     {"name":"s_light","order":14,"path":"sprites/s_light/s_light.yy",},
