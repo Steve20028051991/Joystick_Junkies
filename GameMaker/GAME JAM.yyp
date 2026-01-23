@@ -37,6 +37,7 @@
   "name":"GAME JAM",
   "resources":[
     {"id":{"name":"obattery","path":"objects/obattery/obattery.yy",},},
+    {"id":{"name":"oCursor","path":"objects/oCursor/oCursor.yy",},},
     {"id":{"name":"oEnemy_behaviour","path":"objects/oEnemy_behaviour/oEnemy_behaviour.yy",},},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},},
     {"id":{"name":"oEnemySpawner","path":"objects/oEnemySpawner/oEnemySpawner.yy",},},
@@ -61,6 +62,7 @@
     {"id":{"name":"TitleMusic","path":"sounds/TitleMusic/TitleMusic.yy",},},
     {"id":{"name":"Level2_floor","path":"sprites/Level2_floor/Level2_floor.yy",},},
     {"id":{"name":"sbattery","path":"sprites/sbattery/sbattery.yy",},},
+    {"id":{"name":"sCursor","path":"sprites/sCursor/sCursor.yy",},},
     {"id":{"name":"sEnemy","path":"sprites/sEnemy/sEnemy.yy",},},
     {"id":{"name":"seyes","path":"sprites/seyes/seyes.yy",},},
     {"id":{"name":"sFlashlight","path":"sprites/sFlashlight/sFlashlight.yy",},},
