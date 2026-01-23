@@ -20,10 +20,14 @@ else if (mouse_check_button_released)
 if (global.flashlightOn == true)
 {
 	image_angle = point_direction(x, y, mouse_x, mouse_y) - 90;
-	global.energy -= 0.3;
+	global.energy -= 1;
 	if (global.energy <= 0)
 	{
 		global.flashlightOn = false;
 		visible = false;
 	}
 }
+if (energy >= maxenergy){
+	energy = maxenergy
+}
+	
