@@ -1,8 +1,8 @@
 {
   "FolderOrderSettings":[
-    {"name":"Menu","order":17,"path":"folders/Objects/Menu.yy",},
     {"name":"Level 1","order":15,"path":"folders/Objects/Level 1.yy",},
     {"name":"Level 2","order":16,"path":"folders/Objects/Level 2.yy",},
+    {"name":"Menu","order":17,"path":"folders/Objects/Menu.yy",},
     {"name":"Level 1","order":8,"path":"folders/Sprites/Level 1.yy",},
     {"name":"Level 2","order":11,"path":"folders/Sprites/Level 2.yy",},
   ],
